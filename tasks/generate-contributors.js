@@ -1,7 +1,7 @@
 const request = require('request');
 const fs = require('fs');
 const options = {
-  url: 'https://api.github.com/repos/marlonbernardes/awesome-berlin/stats/contributors',
+  url: 'https://api.github.com/repos/jokull/awesome-reykjavik/stats/contributors',
   headers: {
     'User-Agent': 'request'
   }

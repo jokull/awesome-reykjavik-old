@@ -1,29 +1,24 @@
 {
-  "title": "Awesome Berlin",
+  "title": "Awesome Reykjavík",
   "plugins": [
     "anchors",
     "disqus",
     "edit-link",
-    "ga",
     "github-buttons",
     "include"
   ],
   "pluginsConfig": {
     "disqus": {
-      "shortName": "awesome-berlin"
+      "shortName": "awesome-reykjavik"
     },
     "edit-link": {
-      "base": "https://github.com/marlonbernardes/awesome-berlin/tree/master",
+      "base": "https://github.com/jokull/awesome-reykjavik/tree/master",
       "label": {
-        "en": "Improve this page",
-        "pt-br": "Edite esta página"
+        "en": "Improve this page"
       }
     },
-    "ga": {
-      "token": "UA-89278781-1"
-    },
     "github-buttons": {
-      "repo": "marlonbernardes/awesome-berlin",
+      "repo": "jokull/awesome-reykjavik",
       "types": [
         "star"
       ],

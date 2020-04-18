@@ -11,6 +11,7 @@ Pages that are not yet linked are ideas for pages if anyone wants to contribute.
 1. Shopping for furniture and electronics
 1. Grocery shopping
 1. [Getting a bank account](/pages/bank-account.md)
+1. [Driver’s license](/pages/drivers-license.md)
 1. Registering for tax
 1. Access to healthcare
 1. Schools for expats
